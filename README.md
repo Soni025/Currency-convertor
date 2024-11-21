@@ -13,21 +13,6 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 - Updates flag images dynamically based on selected currencies.
 - User-friendly interface.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-
-2- Open index.html in your web browser.
-
-3-Select the base currency and target currency from the dropdown menus.
-
-4-Enter the amount to convert.
-
-5-The converted amount will be displayed instantly.
-
 ## APIs Used
 Currency API: Provides real-time currency exchange rates.
 
